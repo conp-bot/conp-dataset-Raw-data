@@ -1,0 +1,121 @@
+{
+    "title": "Raw data",
+    "creators": [
+        {
+            "name": "Jessica Royer"
+        },
+        {
+            "name": "Shahin Tavakol"
+        },
+        {
+            "name": "Qiongling Li"
+        },
+        {
+            "name": "Jonathan Smallwood"
+        },
+        {
+            "name": "Andrea Bernasconi"
+        },
+        {
+            "name": "Neda Bernasconi"
+        },
+        {
+            "name": "Birgit Frauscher"
+        },
+        {
+            "name": "Raul Rodriguez-Cruces"
+        },
+        {
+            "name": "Sara Lariviere"
+        },
+        {
+            "name": "Peer Herholz"
+        }
+    ],
+    "description": "This component includes anonymized raw data for all 50 participants",
+    "version": "2021-11-26T22:04:50.758494",
+    "licenses": [
+        {
+            "name": "CC0 1.0 Universal"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2021-11-16 19:59:22",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2021-11-26 22:04:50",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "connectome"
+        },
+        {
+            "value": "diffusion-weighted imaging"
+        },
+        {
+            "value": "functional imaging"
+        },
+        {
+            "value": "gradients"
+        },
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "multimodal"
+        },
+        {
+            "value": "structural imaging"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 45.0,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/z8mu5/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "10"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
